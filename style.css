@@ -1,0 +1,30 @@
+.sec1 h2{
+    background-color:aqua;
+}
+
+.sec1{
+    background-color: rgb(230, 230, 251);
+}
+
+.img1{
+    border-radius: 0%;
+}
+
+.imgbox1{
+    background-color: rgb(250, 204, 140); 
+    border-radius: 0%;
+    height: 120px;
+    margin-top: -120px;
+}
+
+.sec2 img{
+    height: 180px;
+    width: 150px;
+    background-color: rgb(211, 241, 245);
+    border-radius: 50%;
+    align-items: start;
+}
+
+img{
+    height: 250px;
+}
